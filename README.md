@@ -1,4 +1,4 @@
-Hi I'm Isaiah, an undergrad at GaTech studying Computational Media, Math, and Industrial Design! In addition to normal coursework, I am a research assistant at the Whiteley Lab, under the School of Biological Sciences.
+Hi I'm Isaiah, an undergrad at GaTech studying Computational Media, Math, and Industrial Design! In addition to normal coursework, I am a research assistant at the Whiteley Lab, under the School of Biological Sciences
 
 I'm currently working on -> DAQNuc Plugin for Kihara Lab
 <!---
